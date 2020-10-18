@@ -6,10 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Pertemuan5.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/MenuScene.unity
     guid: a34604350377ae4458d9b1fe4c481151
+  - enabled: 1
+    path: Assets/Scenes/Pertemuan3.unity
+    guid: a5a184bdb93b9504db1b6b60a5ba7170
+  - enabled: 1
+    path: Assets/Scenes/Pertemuan4.unity
+    guid: 1d0c4b463314e5d46998eb8fea12b083
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1704db9f25192e4698d08a69db1a9c3, type: 2}
